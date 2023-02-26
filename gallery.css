@@ -61,7 +61,7 @@ body{
   @media(max-width:600px){
     *{
         overflow-x: hidden;
-        font-size: 15px;
+        font-size: 10px;
     }
     .images1,.images2{
         font-size: 10px;
